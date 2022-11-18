@@ -7,3 +7,5 @@ add new specific feature
 added forgot feature
 
 bugfix 1
+
+developed more features

@@ -1,1 +1,9 @@
 this is the first version
+
+this  the new feature
+
+add new specific feature
+
+added forgot feature
+
+bugfix 1
